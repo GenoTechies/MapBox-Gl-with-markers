@@ -1,28 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
-import  Map from "./map" 
-
-
-
+import logo from "./logo.svg";
+import "./App.css";
+import Map from "./map";
 
 function App() {
-
-
-
-
   return (
-    
     <div className="App">
-      <h1>Map</h1>
-      
+      <h1>Map (GenoTech)</h1>
+
       <div className="map">
-        <Map/>
-    
-          
+        <Map />
       </div>
-
-
-    
     </div>
   );
 }
