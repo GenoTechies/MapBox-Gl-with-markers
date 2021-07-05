@@ -6,7 +6,7 @@ Mapbox GL is a suite of open-source libraries for embedding customizable and res
 ![image](https://user-images.githubusercontent.com/64302398/124383398-d725c700-dce9-11eb-947d-ae7989c12c1a.png)
 
 
-our full project is aviable at #data.akamutu.org
+Vist http://data.akamutu.org/ help us to overcome chllenges for future data scientist in Sri Lanka
 
 
 
